@@ -28,7 +28,8 @@ swaks --version
 ### Step 1: Check the Target Domain's Defenses
 
 Before sending anything, check whether the sending domain has any email authentication
-records published. These three dig commands tell you everything:
+records published.  In this example we will use a domain I own **foodbark.io**. 
+These three dig commands tell you everything:
 
 ```bash
 # SPF — who is authorized to send email as this domain?
