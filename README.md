@@ -17,11 +17,11 @@ First download Swaks (Swiss Army Knife for SMTP).  It is a command-line tool for
 It lets you send test emails directly from the terminal with full control over every part of the transaction — headers, body, authentication, encryption, etc. It's mainly used by sysadmins and developers to verify that a mail server is working correctly.
 Common things you can do with it:
 
-Send a test email to verify an SMTP server is accepting connections
-Test SMTP authentication (login, plain, CRAM-MD5, etc.)
-Test TLS/SSL connections
-Simulate different sending scenarios (spoofed from address, custom headers, attachments)
-Debug mail relay configurations
+- Send a test email to verify an SMTP server is accepting connections
+- Test SMTP authentication (login, plain, CRAM-MD5, etc.)
+- Test TLS/SSL connections
+- Simulate different sending scenarios (spoofed from address, custom headers, attachments)
+- Debug mail relay configurations
 
 ```bash
 # Install swaks (Swiss Army Knife of SMTP)
