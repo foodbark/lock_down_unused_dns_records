@@ -1,4 +1,4 @@
-# Email Spoofing Lab: How Easy It Is (and How to Stop It)
+# Email Spoofing Lab: How Easy It Is (and How to Stop It) PART 2
 
 This lab walks through a real spoofing attack from scratch — finding a target inbox,
 looking up its mail server, delivering a spoofed email with a completely fake sender
